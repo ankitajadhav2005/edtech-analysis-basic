@@ -1,4 +1,4 @@
-# Lead Data Analysis Project
+# Lead Conversion & Funnel Performance Analysis
 
 ## Business Problem
 The business generates leads from multiple acquisition channels but lacks clarity on:
